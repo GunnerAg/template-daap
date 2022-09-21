@@ -6,9 +6,9 @@
   "main": "./src/index.ts",
   "scripts": {
     "start": "npx nodemon src/index.ts",
-    "deploy:development": "npx truffle migrate --network development",
-    "deploy:testnet": "npx truffle migrate --network rinkeby",
-    "deploy:production": "npx truffle migrate --network production",
+    "deploy:dev": "npx truffle migrate --network development",
+    "deploy:rinkeby": "npx truffle migrate --network rinkeby",
+    "deploy:main": "npx truffle migrate --network main",
     "lint": "npx eslint . --ext .ts -f table",
     "lint:fix": "npx eslint . --ext .ts -f table --fix"
   },
