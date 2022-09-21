@@ -2,7 +2,7 @@
 ![alt text](https://www.ucavila.es/wp-content/uploads/2022/03/conUcraniaLogo.png)
 ## Instalación:
 
-* Inside the directory marketplace-api, use the package manager [npm](https://www.npmjs.com) to run:
+* Dentro del directorio marketplace-api, usa npm package manager [npm](https://www.npmjs.com) para ejecutar:
 
 
 ```bash
